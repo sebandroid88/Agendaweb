@@ -1,0 +1,6 @@
+google_api_python_client==2.91.0
+gspread==5.9.0
+numpy==1.24.4
+protobuf==3.20.3
+streamlit==1.35.0
+streamlit_option_menu==0.3.6
